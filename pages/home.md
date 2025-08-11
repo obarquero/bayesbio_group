@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Computing in Cardiology 2026 Madrid"
+title: "Welcome to Bayes Bio Research Group Web Page"
 layout: single
 author_profile: true
 permalink: /
