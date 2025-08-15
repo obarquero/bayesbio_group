@@ -10,10 +10,8 @@ permalink: /
 </div>
 
 &nbsp;
-<div style="text-align: center;">  
-## About BayesBio  
-*Markdown* works **inside** HTML!  
-</div>  
+
+<p style="text-align: center;"> ## About BayesBio </p> 
 
 **BayesBio is an International Research Group** focuses on *Bayesian machine learning, statistics, and AI-driven signal processing* to develop innovative solutions for **society in biomedical applications**, **finance**, and **intelligent decision systems**.
 {: .text-justify}
