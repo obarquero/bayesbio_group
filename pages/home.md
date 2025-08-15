@@ -9,9 +9,6 @@ permalink: /
   <img src="{{'/assets/img/bio_group_img.png' | relative_url}}" alt="Bayes Bio Group image" style="width: 759px; height: auto;">
 </div>
 
-
-&nbsp;
-
 &nbsp;
 <div style="text-align: center;">  
 ## About BayesBio  
