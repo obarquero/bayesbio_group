@@ -6,12 +6,7 @@ permalink: /
 ---
 
 <div style="text-align: center;">
-  <img src="{{'/assets/img/cinc_2026/royal_palace.jpg' | relative_url}}" alt="Royal Palace" style="width: 500px; height: auto;">
-</div>
-
-
-<div style="text-align: center;">
-  <img src="{{'/assets/img/cinc_2026/logo_completo.svg' | relative_url}}" alt="Texto alternativo" style="width: 450px; height: auto;">
+  <img src="{{'/assets/img/bio_group_img.png' | relative_url}}" alt="Royal Palace" style="width: 500px; height: auto;">
 </div>
 
 
