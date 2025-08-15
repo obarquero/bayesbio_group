@@ -11,7 +11,8 @@ permalink: /
 
 &nbsp;
 
-<p style="text-align: center;"> ## About BayesBio </p> 
+## About BayesBio  
+{: style="text-align: center;"} 
 
 **BayesBio is an International Research Group** focuses on *Bayesian machine learning, statistics, and AI-driven signal processing* to develop innovative solutions for **society in biomedical applications**, **finance**, and **intelligent decision systems**.
 {: .text-justify}
