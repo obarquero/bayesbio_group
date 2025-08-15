@@ -6,14 +6,16 @@ permalink: /
 ---
 
 <div style="text-align: center;">
-  <img src="{{'/assets/img/bio_group_img.png' | relative_url}}" alt="Bayes Bio Group image" style="width: 800px; height: auto;">
+  <img src="{{'/assets/img/bio_group_img.png' | relative_url}}" alt="Bayes Bio Group image" style="width: 759px; height: auto;">
 </div>
 
 
 &nbsp;
 
 &nbsp;
-We warmly invite you to the **53th Computing in Cardiology conference** in **Madrid, Spain** on **13th - 16th September 2026**.
+
+## About BayesBio
+**BayesBio is an International Research Group** focuses on *Bayesian machine learning, statistics, and AI-driven signal processing* to develop innovative solutions for **society in biomedical applications**, **finance**, and **intelligent decision systems**.
 {: .text-justify}
 
 ## Computing in Cardiology
