@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <div style="text-align: center;">
-  <img src="{{'/assets/img/bio_group_img.png' | relative_url}}" alt="Royal Palace" style="width: 500px; height: auto;">
+  <img src="{{'/assets/img/bio_group_img.png' | relative_url}}" alt="Bayes Bio Group image" style="width: 800px; height: auto;">
 </div>
 
 
