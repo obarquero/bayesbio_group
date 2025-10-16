@@ -7,7 +7,7 @@ permalink: /
 
 # Hola, soy [Tu Nombre]
 
-![Logo](/assets/images/bio_group_img.png)
+![Logo](/assets/images/bio_group_img.jpg)
 
 Bienvenido a mi sitio personal/institucional.
 
