@@ -6,9 +6,10 @@ permalink: /
 ---
 
 # Hola, soy [Tu Nombre]
-<div style="text-align: center;">
+<!--<div style="text-align: center;">
   <img src="{{'/assets/images/bio_group_img.png' | relative_url}}" alt="Bayes Bio Group image" style="width: 759px; height: auto;">
-</div>
+</div>-->
+
 ![Logo](https://obarquero.github.io/bayesbio_group/assets/images/bio_group_img.jpg)
 
 Bienvenido a mi sitio personal/institucional.
