@@ -1,0 +1,57 @@
+/* /assets/css/custom.css */
+/* Publications page styling only */
+.publications-list {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 2.5rem;
+}
+
+.publications-list li {
+  margin-bottom: 1.2rem;
+  line-height: 1.7;
+  border-left: 3px solid #e0e0e0;
+  padding-left: 1rem;
+  transition: border-left-color 0.2s ease;
+}
+
+.publications-list li:hover {
+  border-left-color: #0077cc;
+}
+
+.publications-list li strong {
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+.publications-list li em {
+  color: #555;
+  font-style: italic;
+  font-size: 0.95em;
+}
+
+.publications-list li a {
+  color: #0077cc;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.publications-list li a:hover {
+  text-decoration: underline;
+}
+
+.publications-list li br {
+  display: none;
+}
+
+/* Add space between year sections */
+h2#2024,
+h2#2023,
+h2#2022,
+h2#2021 {
+  margin-top: 3rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #eee;
+  color: #333;
+  font-size: 1.75rem;
+  font-weight: 600;
+}

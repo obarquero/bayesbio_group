@@ -1,0 +1,1183 @@
+- year: '2025'
+  authors:
+  - Pérez-Gómez, Eloy
+  - Gómez, José
+  - Gonzalo, Jennifer
+  - Salgüero, Sergio
+  - Riado, Daniel
+  - Casas, María Luisa
+  - Gutiérrez, María Luisa
+  - Jaime, Elena
+  - Pérez-Martínez, Enrique
+  - García-Carretero, Rafael
+  - Ramos, Javier
+  - Fernández-Rodríguez, Conrado
+  - Catalá, Myriam
+  - Martino, Luca
+  - Barquero-Pérez, Óscar
+  title: 'Exploratory integration of near-infrared spectroscopy with clinical data:
+    a machine learning approach for HCV detection in serum samples'
+  journal: Frontiers in Medicine
+  volume: '12'
+  pages: '1'
+  doi: 10.3389/fmed.2025.1596476
+- year: '2025'
+  authors:
+  - Garcia-Carretero R
+  - Ordoñez-Garcia M
+  - Rodriguez-Gonzalez M
+  - Barquero-Perez O
+  - Gil-Prieto R
+  - Gil-de-Miguel A
+  title: Nationwide study of COVID-19 outcomes in hematologic patients following bone
+    marrow transplantation.
+  journal: Scientific reports
+  volume: '1'
+  pages: '1'
+  doi: 10.1038/s41598-025-95246-w
+- year: '2025'
+  authors:
+  - Barquero-Pérez, Óscar
+  - Cámara-Vázquez, Miguel Ángel
+  - Goya-Esteban, Rebeca
+  title: 'Hands-On Mastery in Physiological Signal Processing: A Challenge-Based Learning
+    Approach'
+  journal: Biomedical Engineering Education
+  volume: '5'
+  pages: 311–328
+  doi: 10.1007/s43683-025-00169-7
+- year: '2025'
+  authors:
+  - Sánchez, Henar Calvo
+  - Jara, Lorena
+  - Villarino, Irene
+  - Alvarado, Ruben
+  - Quiñones, Marta
+  - Díaz, Vanessa
+  - Gutiérrez, Maria Luisa
+  - Míquel, Joaquín
+  - Torralba, Miguel
+  - Rubio, Sonia Albertos
+  - others
+  title: WED-106 Impact of metformin on the prevention of hepatocarcinoma in chronic
+    hepatitis C with advanced fibrosis after sustained virologic response
+  journal: Journal of Hepatology
+  volume: '82'
+  pages: S411
+- year: '2024'
+  authors:
+  - García-Vicente, Eduardo José
+  - Benito-Murcia, María
+  - Martín Domínguez, María
+  - Pérez Pérez, Ana
+  - González Sánchez, María
+  - Rey-Casero, Ismael
+  - Alonso Rodríguez, Juan Manuel
+  - Barquero-Pérez, Óscar
+  - Risco Pérez, David
+  title: 'Main causes of producing honey bee colony losses in southwestern Spain:
+    a novel machine learning-based approach'
+  journal: Apidologie
+  volume: '55'
+  pages: '1'
+  doi: 10.1007/s13592-024-01108-1
+- year: '2024'
+  authors:
+  - Gomez J
+  - Barquero-Pérez O
+  - Gonzalo J
+  - Salgüero S
+  - Riado D
+  - Luisa Casas M
+  - Luisa Gutiérrez M
+  - Jaime E
+  - Pérez-Martínez E
+  - García-Carretero R
+  - Ramos J
+  - Catalá M
+  title: 'Near infrared spectroscopy (NIRS) and machine learning as a promising tandem
+    for fast viral detection in serum microsamples: A preclinical proof of concept.'
+  journal: Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy
+  volume: '1'
+  pages: '1'
+  doi: 10.1016/j.saa.2024.124819
+- year: '2024'
+  authors:
+  - Gutiérrez-Fernández-Calvillo M
+  - Cámara-Vázquez MÁ
+  - Hernández-Romero I
+  - Guillem MS
+  - Climent AM
+  - Fambuena-Santos C
+  - Barquero-Pérez Ó
+  title: Non-invasive estimation of atrial fibrillation driver position using long-short
+    term memory neural networks and body surface potentials.
+  journal: Computer methods and programs in biomedicine
+  volume: '1'
+  pages: '1'
+  doi: 10.1016/j.cmpb.2024.108052
+- year: '2023'
+  authors:
+  - Gutiérrez Fernández-Calvillo, Miriam
+  - Ángel Cámara-Vázquez, Miguel
+  - Hernández-Romero, Ismael
+  - Fambuena Santos, Carlos
+  - de la Salud Guillem Sánchez, Maria
+  - M. Climent, Andreu
+  - Barquero-Perez, Oscar
+  title: EGM Reconstruction from BSPs in Atrial Fibrillation Using Deep Learning
+  journal: ''
+  volume: '1'
+  pages: '1'
+  doi: 10.22489/cinc.2023.302
+- year: '2023'
+  authors:
+  - Rey-Paredes, Marta
+  - Barquero-Perez, Oscar
+  - Goya-Esteban, Rebeca
+  - Luque-Casado, Antonio
+  - Grassi, Daniela
+  - Suárez, Francico
+  title: 'Modeling Gender Differences in Heart Rate During the Diving Reflex: Insights
+    into Physiological Adaptability'
+  journal: ''
+  volume: '1'
+  pages: '1'
+  doi: 10.22489/cinc.2023.148
+- year: '2022'
+  authors:
+  - Barquero-Perez O
+  - Gomez-Sanchez J
+  - Riado-Minguez D
+  - Gonzalo-Segovia J
+  - Garcia-Carretero R
+  - Casas-Losada ML
+  - Fernandez-Rodriguez S
+  - Catala M
+  title: Hepatitis C Virus positivity prediction from serum samples using NIRS and
+    L1-penalized classification.
+  journal: Annual International Conference of the IEEE Engineering in Medicine and
+    Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International
+    Conference
+  volume: '1'
+  pages: '1'
+  doi: 10.1109/embc48229.2022.9871807
+- year: '2021'
+  authors:
+  - Cámara-Vázquez MÁ
+  - Hernández-Romero I
+  - Morgado-Reyes E
+  - Guillem MS
+  - Climent AM
+  - Barquero-Pérez O
+  title: Non-invasive Estimation of Atrial Fibrillation Driver Position With Convolutional
+    Neural Networks and Body Surface Potentials.
+  journal: Frontiers in physiology
+  volume: '1'
+  pages: '1'
+  doi: 10.3389/fphys.2021.733449
+- year: '2021'
+  authors:
+  - García-Carretero, Rafael
+  - Holgado-Cuadrado, Roberto
+  - Barquero-Pérez, Óscar
+  title: Assessment of Classification Models and Relevant Features on Nonalcoholic
+    Steatohepatitis Using Random Forest
+  journal: Entropy
+  volume: '23'
+  pages: '763'
+  doi: 10.3390/e23060763
+- year: '2021'
+  authors:
+  - Garcia Carretero R
+  - Vigil-Medina L
+  - Barquero-Perez O
+  - Mora-Jimenez I
+  - Soguero-Ruiz C
+  - Ramos-Lopez J
+  title: 'Machine learning approaches to constructing predictive models of vitamin
+    D deficiency in a hypertensive population: a comparative study.'
+  journal: Informatics for health & social care
+  volume: '1'
+  pages: '1'
+  doi: 10.1080/17538157.2021.1896524
+- year: '2021'
+  authors:
+  - Garcia-Carretero R
+  - Vigil-Medina L
+  - Barquero-Perez O
+  title: The Use of Machine Learning Techniques to Determine the Predictive Value
+    of Inflammatory Biomarkers in the Development of Type 2 Diabetes Mellitus.
+  journal: Metabolic syndrome and related disorders
+  volume: '1'
+  pages: '1'
+  doi: 10.1089/met.2020.0139
+- year: '2020'
+  authors:
+  - Barquero-Pérez Ó
+  - Cámara-Vázquez MA
+  - Vadillo-Valderrama A
+  - Goya-Esteban R
+  title: Autonomic Nervous System and Recall Modeling in Audiovisual Emotion-Mediated
+    Advertising Using Partial Least Squares-Path Modeling.
+  journal: Frontiers in psychology
+  volume: '1'
+  pages: '1'
+  doi: 10.3389/fpsyg.2020.576771
+- year: '2020'
+  authors:
+  - Garcia-Carretero R
+  - Vigil-Medina L
+  - Mora-Jimenez I
+  - Soguero-Ruiz C
+  - Barquero-Perez O
+  - Ramos-Lopez J
+  title: Use of a K-nearest neighbors model to predict the development of type 2 diabetes
+    within 2 years in an obese, hypertensive population.
+  journal: Medical & biological engineering & computing
+  volume: '1'
+  pages: '1'
+  doi: 10.1007/s11517-020-02132-w
+- year: '2020'
+  authors:
+  - Garcia-Carretero R
+  - Vigil-Medina L
+  - Barquero-Perez O
+  - Mora-Jimenez I
+  - Soguero-Ruiz C
+  - Goya-Esteban R
+  - Ramos-Lopez J
+  title: Logistic LASSO and Elastic Net to Characterize Vitamin D Deficiency in a
+    Hypertensive Obese Population.
+  journal: Metabolic syndrome and related disorders
+  volume: '1'
+  pages: '1'
+  doi: 10.1089/met.2019.0104
+- year: '2019'
+  authors:
+  - Garcia-Carretero R
+  - Vigil-Medina L
+  - Barquero-Perez O
+  - Ramos-Lopez J
+  title: Pulse Wave Velocity and Machine Learning to Predict Cardiovascular Outcomes
+    in Prediabetic and Diabetic Populations.
+  journal: Journal of medical systems
+  volume: '1'
+  pages: '1'
+  doi: 10.1007/s10916-019-1479-y
+- year: '2019'
+  authors:
+  - Garcia-Carretero R
+  - Vigil-Medina L
+  - Barquero-Perez O
+  - Ramos-Lopez J
+  title: Relevant Features in Nonalcoholic Steatohepatitis Determined Using Machine
+    Learning for Feature Selection.
+  journal: Metabolic syndrome and related disorders
+  volume: '1'
+  pages: '1'
+  doi: 10.1089/met.2019.0052
+- year: '2019'
+  authors:
+  - Risco, David
+  - Martínez, Remigio
+  - Bravo, María
+  - Fernández Llario, Pedro
+  - Cerrato, Rosario
+  - Garcia‐Jiménez, Waldo Luis
+  - Gonçalves, Pilar
+  - García, Alfredo
+  - Barquero‐Pérez, Óscar
+  - Quesada, Alberto
+  - Hermoso de Mendoza, Javier
+  title: Nasal shedding of Mycobacterium tuberculosis in wild boar is related to generalised
+    tuberculosis and concomitant infections
+  journal: Veterinary Record
+  volume: '185'
+  pages: 629–629
+  doi: 10.1136/vr.105511
+- year: '2019'
+  authors:
+  - Garcia-Carretero, Rafael
+  - Barquero-Perez, Oscar
+  - Mora-Jimenez, Inmaculada
+  - Soguero-Ruiz, Cristina
+  - Goya-Esteban, Rebeca
+  - Ramos-Lopez, Javier
+  title: 'Identification of clinically relevant features in hypertensive patients
+    using penalized regression: a case study of cardiovascular events'
+  journal: Medical &amp; Biological Engineering &amp; Computing
+  volume: '57'
+  pages: 2011–2026
+  doi: 10.1007/s11517-019-02007-9
+- year: '2019'
+  authors:
+  - García-Carretero, R.
+  - Barquero-Pérez, O.
+  - Mora-Jiménez, I.
+  - Soguero-Ruiz, C.
+  - Goya-Esteban, R.
+  - Rodríguez-Castro, C.
+  - Ramos-López, J.
+  title: Prevalencia y características clínicas de la esteatohepatitis no alcohólica
+    en una población con hipertensión arterial esencial
+  journal: Hipertensión y Riesgo Vascular
+  volume: '36'
+  pages: 130–136
+  doi: 10.1016/j.hipert.2018.10.001
+- year: '2019'
+  authors:
+  - Pastor-Pérez, Francisco J.
+  - García-Alberola, Arcadio
+  - Navarro-Peñalver, Marina
+  - Goya-Esteban, Rebeca
+  - Garrido-Bravo, Iris P.
+  - Barquero-Pérez, Oscar
+  - Rojo-Álvarez, Jose Luis
+  - Pascual-Figal, Domingo A.
+  title: Lack of improvement in autonomic cardiac tone after sacubitril/valsartan
+    at lower than target doses
+  journal: Journal of Electrocardiology
+  volume: '52'
+  pages: 99–100
+  doi: 10.1016/j.jelectrocard.2018.11.015
+- year: '2018'
+  authors:
+  - Garcia-Carretero, Rafael
+  - Vigil-Medina, Luis
+  - Mora-Jimenez, Inmaculada
+  - Soguero-Ruiz, Cristina
+  - Goya-Esteban, Rebeca
+  - Ramos-Lopez, Javier
+  - Barquero-Perez, Oscar
+  title: 'Cardiovascular risk assessment in prediabetic patients in a hypertensive
+    population: The role of cystatin C'
+  journal: 'Diabetes &amp; Metabolic Syndrome: Clinical Research &amp; Reviews'
+  volume: '12'
+  pages: 625–629
+  doi: 10.1016/j.dsx.2018.04.001
+- year: '2018'
+  authors:
+  - Chidean, Mihaela I.
+  - Barquero-Pérez, Óscar
+  - Goya-Esteban, Rebeca
+  - Sánchez Sixto, Alberto
+  - de la Cruz Torres, Blanca
+  - Naranjo Orellana, Jose
+  - Sarabia Cachadiña, Elena
+  - Caamaño, Antonio J.
+  title: Full Band Spectra Analysis of Gait Acceleration Signals for Peripheral Arterial
+    Disease Patients
+  journal: Frontiers in Physiology
+  volume: '9'
+  pages: '1'
+  doi: 10.3389/fphys.2018.01061
+- year: '2018'
+  authors:
+  - Carretero, R. Garcia
+  - Perez, O. Barquero
+  - Esteban, R. Goya
+  - Medina, L. Vigil
+  title: CYSTATIN C AS A PREDICTOR OF MORTALITY AND CARDIOVASCULAR RISK IN A HYPERTENSIVE
+    POPULATION
+  journal: Journal of Hypertension
+  volume: '36'
+  pages: e120
+  doi: 10.1097/01.hjh.0000539311.47410.1e
+- year: '2018'
+  authors:
+  - Risco, David
+  - Gonçalves, Pilar
+  - Mentaberre, Gregorio
+  - Navarro-González, Nora
+  - Casas-Díaz, Encarna
+  - Gassó, Diana
+  - Colom-Cadena, Andreu
+  - Fernández-Aguilar, Xavier
+  - Castillo-Contreras, Raquel
+  - Velarde, Roser
+  - Barquero-Pérez, Oscar
+  - Fernández-Llario, Pedro
+  - Lavín, Santiago
+  - Fonseca, Carlos
+  - Serrano, Emmanuel
+  title: Biometrical measurements as efficient indicators to assess wild boar body
+    condition
+  journal: Ecological Indicators
+  volume: '88'
+  pages: 43–50
+  doi: 10.1016/j.ecolind.2017.12.048
+- year: '2017'
+  authors:
+  - Garcia-Carretero, R
+  - Vigil-Medina, L
+  - Barquero-Perez, O
+  - Goya-Esteban, R
+  - Mora-Jimenez, I
+  - Soguero-Ruiz, C
+  - Ramos-Lopez, J
+  title: Cystatin C as a predictor of cardiovascular outcomes in a hypertensive population
+  journal: Journal of Human Hypertension
+  volume: '31'
+  pages: 801–807
+  doi: 10.1038/jhh.2017.68
+- year: '2017'
+  authors:
+  - '''Oscar Barquero-Pérez'
+  title: Teaching Machine Learning using Kaggle Competitions
+  journal: III TeLe(In)2 Conference Procedeeings
+  volume: '1'
+  pages: '1'
+- year: '2017'
+  authors:
+  - G. Marques, Antonio
+  - Soguero-Ruiz, Cristina
+  - Ramos, Javier
+  - Mora-Jim�nez, Inmaculada
+  - Goya-Esteban, Rebeca
+  - García-Carretero, Rafael
+  - Barquero-Pérez, Óscar
+  title: Modeling Cardiovascular Condition Evolution in Hypertensive Population Using
+    Graph Signal Processing
+  journal: ''
+  volume: '1'
+  pages: '1'
+  doi: 10.22489/cinc.2017.238-354
+- year: '2017'
+  authors:
+  - Goya-Esteban, R.
+  - Barquero-Pérez, Ó.
+  - Figuera-Pozuelo, C.
+  - García-Alberola, A.
+  - Rojo-Álvarez, J.L.
+  title: A group lasso based method for automatic physiological rhythm analysis
+  journal: Computing in Cardiology
+  volume: '44'
+  pages: 1-4
+- year: '2017'
+  authors:
+  - Baraybar-Fernández, A.
+  - Baños-González, M.
+  - Barquero-Pérez, O.
+  - Goya-Esteban, R.
+  - de-la-Morena-Gómez, A.
+  title: Evaluation of emotional responses to television advertising through neuromarketing
+  journal: Comunicar
+  volume: '25'
+  pages: 19-28
+- year: '2017'
+  authors:
+  - Barquero-Pérez, O.
+  - Santiago-Mozos, R.
+  - Lillo-Castellano, J.M.
+  - García-Viruete, B.
+  - Goya-Esteban, R.
+  - Caamaño, A.J.
+  - Rojo-álvarez, J.L.
+  - Martín-Caballero, C.
+  title: Fetal heart rate analysis for automatic detection of perinatal hypoxia using
+    normalized compression distance and machine learning
+  journal: Frontiers in Physiology
+  volume: '8'
+  pages: '1'
+- year: '2017'
+  authors:
+  - García-Carretero, R.
+  - Barquero-Pérez, ç.
+  - Mora-Jiménez, I.
+  - Soguero-Ruiz, C.
+  - Goya-Esteban, R.
+  - Marques, A.G.
+  - Ramos-López, J.
+  title: L1 penalized cox regression to characterize cardiovascular events in hypertensive
+    patients
+  journal: Computing in Cardiology
+  volume: '44'
+  pages: 1-4
+- year: '2017'
+  authors:
+  - Barquero-Perez, O.
+  - Figuera, C.
+  - Goya-Esteban, R.
+  - Mora-Jimenez, I.
+  - Gimeno-Blanes, F.J.
+  - Laguna, P.
+  - Martinez, J.P.
+  - Gil, E.
+  - Sornmo, L.
+  - Garcia-Alberola, A.
+  - Rojo-Alvarez, J.L.
+  title: On the influence of heart rate and coupling interval prematurity on heart
+    rate turbulence
+  journal: IEEE Transactions on Biomedical Engineering
+  volume: '64'
+  pages: 302-309
+- year: '2016'
+  authors:
+  - Goya-Esteban, R.
+  - Barquero-Perez, O.
+  - Alzueta, J.
+  - Vinolas, X.
+  - Basterra, N.
+  - Garcia, E.
+  - Villacastin, J.
+  - Fernandez-Lozano, I.
+  - Brugada, J.
+  - Martinez-Ferrer, J.B.
+  - Zumalde, F.
+  - Martin-Mendez, M.
+  - Chavarria-Asso, F.
+  - Garcia-Alberola, A.
+  - Rojo-Alvarez, J.L.
+  title: A multicentric study of long-term rhythm patterns in heart rate
+  journal: Computing in Cardiology
+  volume: '43'
+  pages: 909-912
+- year: '2016'
+  authors:
+  - Gonçalves, P.
+  - Risco, D.
+  - Fernández-Llario, P.
+  - Barquero-Pérez, O.
+  - Serrano, E.
+  - Hermoso-De-Mendoza, J.
+  - Mateos, C.
+  title: A new method for ageing wild boar using dental measures
+  journal: Ecological Indicators
+  volume: '62'
+  pages: 328-332
+- year: '2016'
+  authors:
+  - Risco, D.
+  - Salguero, F.J.
+  - Cerrato, R.
+  - Gutierrez-Merino, J.
+  - Lanham-New, S.
+  - Barquero-Pérez, O.
+  - Hermoso de Mendoza, J.
+  - Fernández-Llario, P.
+  title: Association between vitamin D supplementation and severity of tuberculosis
+    in wild boar and red deer
+  journal: Research in Veterinary Science
+  volume: '108'
+  pages: 116-119
+- year: '2016'
+  authors:
+  - Figuera, C.
+  - Suárez-Gutiérrez, V.
+  - Hernández-Romero, I.
+  - Rodrigo, M.
+  - Liberos, A.
+  - Atienza, F.
+  - Guillem, M.S.
+  - Barquero-Pérez, O.
+  - Climent, A.M.
+  - Alonso-Atienza, F.
+  title: 'Corrigendum: Regularization techniques for ECG imaging during atrial fibrillation:
+    A computational study [Front. Physiol., 7 (2016) 466]. DOI:10.3389/fphys.2016.00466'
+  journal: Frontiers in Physiology
+  volume: '7'
+  pages: '1'
+- year: '2016'
+  authors:
+  - Ckidean, M.I.
+  - Barquero-Perez, O.
+  - Zhang, Q.
+  - Jacobsen, R.H.
+  - Caamano, A.J.
+  title: High diagnostic quality ECG compression and CS signal reconstruction in body
+    sensor networks
+  journal: ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing
+    - Proceedings
+  volume: 2016-May
+  pages: 6255-6259
+- year: '2016'
+  authors:
+  - Figuera, C.
+  - Suarez-Gutierrez, V.
+  - Barquero-Perez, O.
+  - Goya-Esteban, R.
+  - Rodrigo, M.
+  - Hernandez, I.
+  - Atienza, F.
+  - Guillem, M.S.
+  - Climent, A.M.
+  - Alonso-Atienza, F.
+  title: Performance of inverse problem regularization methods for driver location
+    during atrial fibrillation
+  journal: Computing in Cardiology
+  volume: '43'
+  pages: 693-696
+- year: '2016'
+  authors:
+  - Figuera, C.
+  - Suárez-Gutiérrez, V.
+  - Hernández-Romero, I.
+  - Rodrigo, M.
+  - Liberos, A.
+  - Atienza, F.
+  - Guillem, M.S.
+  - Barquero-Pérez, Ó.
+  - Climent, A.M.
+  - Alonso-Atienza, F.
+  title: 'Regularization techniques for ECG imaging during atrial fibrillation: A
+    computational study'
+  journal: Frontiers in Physiology
+  volume: '7'
+  pages: '1'
+- year: '2016'
+  authors:
+  - Gimeno-Blanes, F.J.
+  - Blanco-Velasco, M.
+  - Barquero-Pérez, Ó.
+  - García-Alberola, A.
+  - Rojo-álvarez, J.L.
+  title: Sudden cardiac risk stratification with electrocardiographic indices - A
+    review on computational processing, technology transfer, and scientific evidence
+  journal: Frontiers in Physiology
+  volume: '7'
+  pages: '1'
+- year: '2015'
+  authors:
+  - Barquero-Pérez, O.
+  - Goya-Esteban, R.
+  - Caamaño, A.J.
+  - Sarabia-Cachadiña, E.
+  - Martínez-García, C.
+  - Luis Rojo-Álvarez, J.
+  title: Evolution of the Heart Rate Variability complexity during Kangchenjunga climbing
+  journal: Computing in Cardiology
+  volume: '42'
+  pages: 1033-1036
+- year: '2015'
+  authors:
+  - Barquero-Pérez, O.
+  - Goya-Esteban, R.
+  - Caamaño, A.
+  - Martín-Caballero, C.
+  - Rojo-Álvarez, J.L.
+  title: Fetal heart rate complexity measures to detect hypoxia
+  journal: Computing in Cardiology
+  volume: '42'
+  pages: 133-136
+- year: '2015'
+  authors:
+  - Barquero-Pérez, O.
+  - Goya-Esteban, R.
+  - García-Alberola, A.
+  - Rojo-Alvarez, J.L.
+  title: Heart Rate Turbulence modeling using Boosted Regression Trees
+  journal: Computing in Cardiology
+  volume: '42'
+  pages: 989-992
+- year: '2015'
+  authors:
+  - Morgado, E.
+  - Alonso-Atienza, F.
+  - Santiago-Mozos, R.
+  - Barquero-Pérez
+  - Silva, I.
+  - Ramos, J.
+  - Mark, R.
+  title: Quality estimation of the electrocardiogram using cross-correlation among
+    leads
+  journal: BioMedical Engineering Online
+  volume: '14'
+  pages: '1'
+- year: '2014'
+  authors:
+  - Goya-Esteban, R.
+  - Sandberg, F.
+  - Barquero-Pérez, Ó.
+  - García-Alberola, A.
+  - S"ornmo, L.
+  - Rojo-Álvarez, J.L.
+  title: 'Long-term characterization of persistent atrial fibrillation: wave morphology,
+    frequency, and irregularity analysis'
+  journal: Medical and Biological Engineering and Computing
+  volume: '52'
+  pages: 1053-1060
+- year: '2014'
+  authors:
+  - Goya-Esteban, R.
+  - Barquero-Perez, O.
+  - Blanco-Velasco, M.
+  - Caamano-Fernandez, A.J.
+  - Garcia-Alberola, A.
+  - Rojo-Alvarez, J.L.
+  title: Nonparametric signal processing validation in T-wave alternans detection
+    and estimation
+  journal: IEEE Transactions on Biomedical Engineering
+  volume: '61'
+  pages: 1328-1338
+- year: '2014'
+  authors:
+  - Lenis, G.
+  - Lutz, Y.
+  - Seeman, G.
+  - García-Alberola, A.
+  - Rojo-Álvarez, J.L.
+  - Barquero-Pérez, Ó.
+  - Gil, E.
+  - Doessel, O.
+  title: Post extrasystolic T wave change in subjects with structural healthy ventricles-measurement
+    and simulation
+  journal: Computing in Cardiology
+  volume: '41'
+  pages: 1069-1072
+- year: '2014'
+  authors:
+  - Figuera, C.
+  - Barquero-Pérez, Ó.
+  - Rojo-Álvarez, J.L.
+  - Martínez-Ramón, M.
+  - Guerrero-Curieses, A.
+  - Caamaño, A.J.
+  title: Spectrally adapted Mercer kernels for support vector nonuniform interpolation
+  journal: Signal Processing
+  volume: '94'
+  pages: 421-433
+- year: '2013'
+  authors:
+  - Goya-Esteban, R.
+  - Barquero-Perez, O.
+  - Sarabia-Cachadina, E.
+  - Naranjo-Orellana, J.
+  - Rojo-Alvarez, J.L.
+  title: A modified Hilbert-Huang algorithm to assess spectral parameters in intense
+    exercise
+  journal: Computing in Cardiology
+  volume: '40'
+  pages: 409-412
+- year: '2013'
+  authors:
+  - Barquero-Perez, O.
+  - Quintanilla, T.
+  - Garia-Munoz, J.
+  - Soguero-Ruiz, C.
+  - Wilby, M.R.
+  - De La Rosa, M.
+  - Cabanas, M.
+  - Gonzalez, I.
+  - Bravo, R.
+  - Garcia-Alberola, A.
+  - Rojo-Alvarez, J.L.
+  title: 'ELab: A web-based platform to perform HRV and HRT analysis and store cardiac
+    signals'
+  journal: Computing in Cardiology
+  volume: '40'
+  pages: 21-24
+- year: '2013'
+  authors:
+  - Pastor-Pérez, F.J.
+  - Manzano-Fernández, S.
+  - Goya-Esteban, R.
+  - Pascual-Figal, D.A.
+  - Bravo, I.P.G.
+  - Barquero-Pérez, O.
+  - Rojo-Ólvarez, J.L.
+  - Januzzi, J.L.
+  - Chavarri, M.V.
+  - García-Alberola, A.
+  title: 'Heart rate control in chronic heart failure: Resting versus mean heart rate
+    with prolonged ambulatory ECG recording'
+  journal: International Journal of Cardiology
+  volume: '170'
+  pages: '1'
+- year: '2013'
+  authors:
+  - Gil, E.
+  - Laguna, P.
+  - Martínez, J.P.
+  - Barquero-Pérez, Ó.
+  - García-Alberola, A.
+  - S"ornmo, L.
+  title: Heart rate turbulence analysis based on photoplethysmography
+  journal: IEEE Transactions on Biomedical Engineering
+  volume: '60'
+  pages: 3149-3155
+- year: '2013'
+  authors:
+  - Sarabia Cachadiña, E.
+  - Granados García, P.
+  - Tonon Da Luz, S.C.
+  - Goya Esteban, R.
+  - Barquero Pérez, O.
+  - Naranjo Orellana, J.
+  - Berral de la Rosa, F.J.
+  title: 'Heart rate variability and phantom pain in male amputees: Application of
+    linear and nonlinear methods'
+  journal: Journal of Rehabilitation Research and Development
+  volume: '50'
+  pages: 449-454
+- year: '2013'
+  authors:
+  - Gonzalez-Gonzalez, M.
+  - Barquero-Perez, O.
+  - Soguero-Ruiz, C.
+  - Sanchez-Munoz, J.J.
+  - Rojo-Alvarez, J.L.
+  - Garcia-Alberola, A.
+  title: Nonlinear characteristics of ventricular fibrillation depend on myocardial
+    infarction locations
+  journal: Computing in Cardiology
+  volume: '40'
+  pages: 619-622
+- year: '2013'
+  authors:
+  - Soguero-Ruiz, C.
+  - Lechuga-Suarez, L.
+  - Mora-Jimenez, I.
+  - Ramos-Lopez, J.
+  - Barquero-Perez, O.
+  - Garcia-Alberola, A.
+  - Rojo-Alvarez, J.L.
+  title: Ontology for heart rate turbulence domain from the conceptual model of SNOMED-CT
+  journal: IEEE Transactions on Biomedical Engineering
+  volume: '60'
+  pages: 1825-1833
+- year: '2013'
+  authors:
+  - Barquero-Perez, O.
+  - Goya-Esteban, R.
+  - Figuera, C.
+  - Mora-Jimenez, I.
+  - Garcia-Alberola, A.
+  - Rojo-Alvarez, J.L.
+  title: Physiological feature analysis in Heart Rate Turbulence using LASSO model
+  journal: Computing in Cardiology
+  volume: '40'
+  pages: 943-946
+- year: '2013'
+  authors:
+  - Goya-Esteban, R.
+  - Sandberg, F.
+  - Barquero-Pérez, Ó.
+  - García-Alberola, A.
+  - S"ornmo, L.
+  - Rojo-Álvarez, J.L.
+  title: Seven-day analysis of atrial fibrillation and circadian rhythms
+  journal: BIOSIGNALS 2013 - Proceedings of the International Conference on Bio-Inspired
+    Systems and Signal Processing
+  volume: '1'
+  pages: 20-24
+- year: '2013'
+  authors:
+  - Pulido-Hidalgo, F.J.
+  - Barquero-Perez, O.
+  - Soguero-Ruiz, C.
+  - Sanchez-Munoz, J.J.
+  - Rojo-Alvarez, J.L.
+  - Garcia-Alberola, A.
+  title: Spectral and nonlinear analysis of surgical ventricular fibrillation
+  journal: Computing in Cardiology
+  volume: '40'
+  pages: 1123-1126
+- year: '2012'
+  authors:
+  - Barquero-Pérez, O.
+  - S"ornmo, L.
+  - Goya-Esteban, R.
+  - Mora-Jiménez, I.
+  - García-Alberola, A.
+  - Rojo-Álvarez, J.L.
+  title: Fundamental frequency estimation in atrial fibrillation signals using correntropy
+    and Fourier Organization Analysis
+  journal: 2012 3rd International Workshop on Cognitive Information Processing, CIP
+    2012
+  volume: '1'
+  pages: '1'
+- year: '2012'
+  authors:
+  - Barquero-Perez, O.
+  - Figuera-Pozuelo, C.
+  - Goya-Esteban, R.
+  - Mora-Jimenez, I.
+  - Rojo-Alvarez, J.L.
+  - Gimeno-Blanes, J.
+  - Garcia-Alberola, A.
+  title: Heart Rate Turbulence modulation with coupling interval and heart rate
+  journal: Computing in Cardiology
+  volume: '39'
+  pages: 173-176
+- year: '2012'
+  authors:
+  - Goya-Esteban, R.
+  - Barquero-Perez, O.
+  - Sarabia-Cachadina, E.
+  - De La Cruz-Torres, B.
+  - Naranjo-Orellana, J.
+  - Rojo-Alvarez, J.L.
+  title: Heart Rate Variability non linear dynamics in intense exercise
+  journal: Computing in Cardiology
+  volume: '39'
+  pages: 177-180
+- year: '2012'
+  authors:
+  - Soguero-Ruiz, C.
+  - Lechuga, L.
+  - Mora-Jimenez, I.
+  - Ramos-Lopez, J.
+  - Barquero-Perez, O.
+  - Garcia-Alberola, A.
+  - Rojo-Alvarez, J.L.
+  title: Ontology for Heart Rate Turbulence domain applying the conceptual model of
+    SNOMED-CT
+  journal: Computing in Cardiology
+  volume: '39'
+  pages: 89-92
+- year: '2012'
+  authors:
+  - Pastor-Pérez, F.J.
+  - Manzano-Fernández, S.
+  - Goya-Esteban, R.
+  - Pascual-Figal, D.A.
+  - Barquero-Pérez, O.
+  - Rojo-Álvarez, J.L.
+  - Everss, E.
+  - Martinez-Espejo, M.D.M.
+  - Chavarri, M.V.
+  - García-Alberola, A.
+  title: Prognostic significance of long-period heart rate rhythms in chronic heart
+    failure
+  journal: Circulation Journal
+  volume: '76'
+  pages: 2124-2129
+- year: '2011'
+  authors:
+  - Barquero-Pérez, O.
+  - Goya-Esteban, R.
+  - Everss, E.
+  - Figuera-Pozuelo, C.
+  - Rojo-Álvarez, J.L.
+  - Pascual-Figal, D.
+  - García-Alberola, A.
+  title: Relationship between heart rate turbulence and local physiological variables
+    in heart failure patients
+  journal: Computing in Cardiology
+  volume: '38'
+  pages: 93-96
+- year: '2011'
+  authors:
+  - Manzano-Fernández, S.
+  - Pastor-Pérez, F.J.
+  - Barquero-Pérez, O.
+  - Pascual-Figal, D.A.
+  - Goya-Esteban, R.
+  - Rojo-Álvarez, J.L.
+  - Caamaño-Fernández, A.
+  - Martínez Martínez-Espejo, M.D.
+  - Januzzi, J.L.
+  - Valdés, M.
+  - García-Alberola, A.
+  title: Short-term variability of heart rate turbulence in chronic heart failure
+  journal: Journal of Cardiac Failure
+  volume: '17'
+  pages: 735-741
+- year: '2011'
+  authors:
+  - Goya-Esteban, R.
+  - Barquero-Pérez, O.
+  - Caamaño-Fernández, A.
+  - Rojo-Álvarez, J.L.
+  - Pastor-Pérez, F.J.
+  - Manzano-Fernández, S.
+  - García-Alberola, A.
+  title: Usefulness of 7-day Holter monitoring for heart rate variability nonlinear
+    dynamics evaluation
+  journal: Computing in Cardiology
+  volume: '38'
+  pages: 105-108
+- year: '2010'
+  authors:
+  - Barquero-Pérez O
+  - Rojo-Alvarez JL
+  - Caamaño AJ
+  - Goya-Esteban R
+  - Everss E
+  - Alonso-Atienza F
+  - Sánchez-Muñoz JJ
+  - García-Alberola A
+  title: Fundamental frequency and regularity of cardiac electrograms with Fourier
+    organization analysis.
+  journal: IEEE transactions on bio-medical engineering
+  volume: '1'
+  pages: '1'
+  doi: 10.1109/tbme.2010.2049574
+- year: '2010'
+  authors:
+  - Pastor-Pérez, F.J.
+  - Manzano-Fernández, S.
+  - Goya-Esteban, R.
+  - Pascual-Figal, D.A.
+  - Barquero-Pérez, O.
+  - Rojo-Álvarez, J.L.
+  - Martinez-Espejo, M.D.M.
+  - Chavarri, M.V.
+  - García-Alberola, A.
+  title: Comparison of detection of arrhythmias in patients with chronic heart failure
+    secondary to non-ischemic versus ischemic cardiomyopathy by 1 versus 7-day Holter
+    monitoring
+  journal: American Journal of Cardiology
+  volume: '106'
+  pages: 677-681
+- year: '2010'
+  authors:
+  - Barquero-Pérez, O.
+  - Mora-Jiménez, I.
+  - Goya-Esteban, R.
+  - Ramiro-Bargueño, J.
+  - García-Alberola, A.
+  - Rojo-Álvarez, J.L.
+  title: Effect of physiological changes in heart rate Turbulence using a lumped parameter
+    model
+  journal: Computing in Cardiology
+  volume: '37'
+  pages: 241-244
+- year: '2010'
+  authors:
+  - Goya-Esteban, R.
+  - Mora-Jiménez, I.
+  - Rojo-Álvarez, J.L.
+  - Barquero-Pérez, Ó.
+  - Pastor-Pérez, F.J.
+  - Manzano-Fernández, S.
+  - Pascual-Figal, D.A.
+  - García-Alberola, A.
+  title: Heart rate variability on 7-day holter monitoring using a bootstrap rhythmometric
+    procedure
+  journal: IEEE Transactions on Biomedical Engineering
+  volume: '57'
+  pages: 1366-1376
+- year: '2010'
+  authors:
+  - Goya-Esteban, R.
+  - Mora-Jiménez, I.
+  - Blanco-Velasco, M.
+  - Barquero-Pérez, O.
+  - Caamaño-Fernandez, A.
+  - Rojo-Álvarez, J.L.
+  - García-Alberola, A.
+  title: Signal processing subsystem validation for T-Wave Alternans estimation
+  journal: Computing in Cardiology
+  volume: '37'
+  pages: 1035-1038
+- year: '2009'
+  authors:
+  - Goya-Esteban, R.
+  - Barquero-Pérez, O.
+  - Alonso-Atienza, F.
+  - Everss, E.
+  - Requena-Carrión, J.
+  - García-Alberola, A.
+  - Rojo-Álvarez, J.L.
+  title: 'A review on recent patents in digital processing for cardiac electric signals
+    (I): From basic systems to arrhythmia analysis'
+  journal: Recent Patents on Biomedical Engineering
+  volume: '2'
+  pages: 22-31
+- year: '2009'
+  authors:
+  - Barquero-Pérez, O.
+  - Goya-Esteban, R.
+  - Alonso-Atienza, F.
+  - Requena-Carrión, J.
+  - Everss, E.
+  - García-Alberola, A.
+  - Rojo-Álvarez, J.L.
+  title: 'A review on recent patents in digital processing for cardiac electric signals
+    (II): Advanced systems and applications'
+  journal: Recent Patents on Biomedical Engineering
+  volume: '2'
+  pages: 32-47
+- year: '2009'
+  authors:
+  - Barquero-Pérez, O.
+  - Rojo-Álvarez, J.L.
+  - Requena-Carrión, J.
+  - Alonso-Atienza, F.
+  - Everss, E.
+  - Goya-Esteban, R.
+  - Sánchez-Muñoz, J.J.
+  - García-Alberola, A.
+  title: Cardiac arrhythmia spectral analysis of electrogram signals using fourier
+    organization analysis
+  journal: Computers in Cardiology
+  volume: '36'
+  pages: 333-336
+- year: '2009'
+  authors:
+  - Rojo-Álvarez, J.L.
+  - Barquero-Pérez, Ó.
+  - Mora-Jiménez, I.
+  - Everss, E.
+  - Rodrí-González, A.B.
+  - García-Alberola, A.
+  title: Heart rate turbulence denoising using support vector machines
+  journal: IEEE Transactions on Biomedical Engineering
+  volume: '56'
+  pages: 310-319
+- year: '2009'
+  authors:
+  - Goya-Esteban, R.
+  - Mora-Jiménez, I.
+  - Rojo-Álvarez, J.L.
+  - Barquero-Pérez, O.
+  - Manzano-Martínez, S.
+  - Pastor-Pérez, F.
+  - Pascual-Figal, D.
+  - García-Alberola, A.
+  title: Rhythmometric analysis of heart rate variability indices during long term
+    monitoring
+  journal: Computers in Cardiology
+  volume: '36'
+  pages: 57-60
+- year: '2008'
+  authors:
+  - Barquero-Pérez, Ó.
+  - De Sá, J.M.
+  - Rojo-Álvarez, J.L.
+  - Goya-Esteban, R.
+  title: Changes in detrended fluctuation indices with aging in healthy and congestive
+    heart failure subjects
+  journal: Computers in Cardiology
+  volume: '35'
+  pages: 45-48
+- year: '2008'
+  authors:
+  - Goya-Esteban, R.
+  - De Sá, J.P.M.
+  - Rojo-Álvarez, J.L.
+  - Barquero-Pérez, O.
+  title: Characterization of heart rate variability loss with aging and heart failure
+    using sample entropy
+  journal: Computers in Cardiology
+  volume: '35'
+  pages: 41-44
+- year: '2008'
+  authors:
+  - Rojo-Alvarez, J.L.
+  - Barquero-Perez, O.
+  - Mora-Jimenez, I.
+  - Goya-Esteban, R.
+  - Gimeno-Blanes, J.
+  - Garcia-Alberola, A.
+  title: Detection and estimation of T Wave Alternans with matched filter and nonparametric
+    bootstrap test
+  journal: Computers in Cardiology
+  volume: '35'
+  pages: 617-620
+- year: '2007'
+  authors:
+  - Rojo-Alvarez, J.L.
+  - Sanchez-Sanchez, A.
+  - Barquero-Perez, O.
+  - Goya-Esteban, R.
+  - Everss, E.
+  - Mora-Jimenez, I.
+  - Garcia-Alberola, A.
+  title: Analysis of physiological meaning of detrended fluctuation analysis in heart
+    rate variability using a lumped parameter model
+  journal: Computers in Cardiology
+  volume: '34'
+  pages: 25-28
