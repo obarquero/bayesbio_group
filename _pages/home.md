@@ -1,4 +1,3 @@
----
 title: "BayesBio Research Group"
 layout: home
 author_profile: true
@@ -15,7 +14,7 @@ permalink: /
 
 ## Our Mission
 
-The BayesBio Research Group bridges theoretical statistics and applied biomedical engineering to address complex challenges in healthcare. We develop statistically rigorous, computationally scalable methods for uncertainty quantification, clinical decision support, and reproducible data analysis — grounded in real-world medical data and validated through clinical collaboration.
+The BayesBio Research Group bridges theoretical statistics and applied biomedical engineering to address complex challenges. We develop statistically rigorous, computationally scalable methods for uncertainty quantification, clinical decision support, and reproducible data analysis — grounded in real-world medical data and validated through clinical collaboration, as well as any other real problem that can be addressed with bayesian analysis.
 
 ## Research Leadership
 
@@ -33,6 +32,6 @@ Our group unites methodological innovation with translational impact. By combini
 
 ## Explore Our Work
 
-[View our publications](/pages/publications/)  
-[Explore our software tools](/pages/software/)  
-[Contact us for collaboration](/pages/contact/)
+[View our publications](/publications/)  
+[Explore our software tools](/software/)  
+[Contact us for collaboration](/contact/)
