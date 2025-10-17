@@ -1,3 +1,4 @@
+---
 title: "BayesBio Research Group"
 layout: home
 author_profile: true
