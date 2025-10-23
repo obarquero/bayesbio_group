@@ -17,11 +17,15 @@ permalink: /
 
 The BayesBio Research Group bridges theoretical statistics and applied biomedical engineering to address complex challenges. We develop statistically rigorous, computationally scalable methods for uncertainty quantification, clinical decision support, and reproducible data analysis — grounded in real-world medical data and validated through clinical collaboration, as well as any other real problem that can be addressed with bayesian analysis.
 
-## Research Leadership
+## Principal Investigators
 
 ### Luca Martino — Bayesian Inference & Probabilistic Modeling
 
-Luca Martino develops theoretical and computational Bayesian frameworks for high-dimensional, nonlinear, and dynamic systems. His work focuses on advanced posterior approximation, scalable Markov Chain Monte Carlo (MCMC) algorithms, and hierarchical latent-variable models. He has published foundational contributions in *Journal of Machine Learning Research*, *Statistics and Computing*, and *IEEE Transactions on Signal Processing*, with applications spanning biomedical diagnostics, social behavior modeling, and environmental inference. His research emphasizes mathematical rigor, algorithmic efficiency, and the principled quantification of uncertainty in data-driven decision-making.
+<img src="{{ '/assets/images/luca_martino.jpg' | relative_url }}" 
+     alt="Luca Martino" 
+     class="avatar" /> 
+     
+**Luca Martino** develops theoretical and computational Bayesian frameworks for high-dimensional, nonlinear, and dynamic systems. His work focuses on advanced posterior approximation, scalable Markov Chain Monte Carlo (MCMC) algorithms, and hierarchical latent-variable models. He has published foundational contributions in *Journal of Machine Learning Research*, *Statistics and Computing*, and *IEEE Transactions on Signal Processing*, with applications spanning biomedical diagnostics, social behavior modeling, and environmental inference. His research emphasizes mathematical rigor, algorithmic efficiency, and the principled quantification of uncertainty in data-driven decision-making.
 
 ### Óscar Barquero — Biomedical Signal Processing & Deep Learning
 
