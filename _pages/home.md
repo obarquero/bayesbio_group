@@ -21,7 +21,7 @@ The BayesBio Research Group bridges theoretical statistics and applied biomedica
 
 ### Luca Martino — Bayesian Inference & Probabilistic Modeling
 
-<img src="{{ '/assets/images/luca_martino.jpg' | relative_url }}" 
+<img src="{{ '/assets/images/luca_2.jpg' | relative_url }}" 
      alt="Luca Martino" 
      class="avatar" /> 
      
@@ -29,7 +29,12 @@ The BayesBio Research Group bridges theoretical statistics and applied biomedica
 
 ### Óscar Barquero — Biomedical Signal Processing & Deep Learning
 
-Óscar Barquero designs and implements machine learning and signal processing algorithms for the analysis of clinical time-series data, including EEG, ECG, and respiratory acoustics. His work applies convolutional and recurrent neural networks (CNNs, RNNs), as well as reinforcement learning techniques, to detect early biomarkers of neurological disorders and predict therapeutic responses. Validated through clinical collaborations with hospitals in Spain and Latin America, his tools prioritize interpretability, accessibility, and deployment in resource-constrained settings — advancing precision medicine through data-driven, evidence-based solutions.
+<img src="{{ '/assets/images/ojki.jpg' | relative_url }}" 
+     alt="Óscar Barquero" 
+     class="avatar" /> 
+
+**Óscar Barquero** designs and implements machine learning and signal processing algorithms for the analysis of clinical time-series data, including EEG, ECG, and respiratory acoustics. His work applies convolutional and recurrent neural networks (CNNs, RNNs), to characterize cardiac signals. He also develop intepretable machine learning models to identify clinical variables in diabetes and hepatitis.
+
 
 ## Interdisciplinary Approach
 

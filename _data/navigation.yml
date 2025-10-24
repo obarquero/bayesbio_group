@@ -3,6 +3,8 @@ main:
     url: /bda/
   - title: "Biomedical Engineering Applications"
     url: /bea/
+  - title: "The group"
+    url: /group/
   - title: "Publications"
     url: /publications/
   - title: "Projects"

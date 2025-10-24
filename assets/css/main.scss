@@ -14,11 +14,15 @@
   width: 160px;
   height: 160px;
   border-radius: 50%;
-  object-fit: cover;
+  background-size: contain;      /* No deforma, muestra completa */
+  background-position: center;   /* Centra la imagen */
+  background-repeat: no-repeat;
   border: 2px solid #f0f0f0;
   box-shadow: 0 1px 4px rgba(0,0,0,0.1);
   margin: 0 1.5rem 0.5rem 0;
   display: block;
+  background-color: #f9f9f9;     /* Fondo suave si la imagen es pequeña */
+  overflow: hidden;              /* ← Clave: oculta cualquier exceso */
 }
 
 .avatar-left {
