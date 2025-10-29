@@ -32,8 +32,8 @@ permalink: /group/
 ### All Senior Researchers
 - [Dr. Luca Martino](#luca-martino)
 - [Dr. Oscar Barquero](#oscar-barquero)
-- [Dr. Ana López](#ana-lopez)
-- [Dr. Miguel Ruiz](#miguel-ruiz)
+- [Dr. Rebeca Goya Esteban](#rebeca-goya)
+- More people
 
 ---
 
@@ -49,15 +49,19 @@ permalink: /group/
 <div style="width: 160px; height: 160px; border-radius: 50%; background-image: url('/assets/images/oscar.jpg'); background-size: contain; background-position: center; background-repeat: no-repeat; border: 2px solid #f0f0f0; box-shadow: 0 1px 4px rgba(0,0,0,0.1); margin: 0 1rem 1rem 0; display: inline-block; vertical-align: top;"></div>
 **Dr. Oscar Barquero** specializes in computational epidemiology and social determinants of health. His recent work analyzes health disparities using longitudinal cohort data and machine learning. He collaborates closely with public health agencies and is a co-founder of the group’s open-data initiative.
 
-[🔗 GitHub](https://github.com/oscarbarquero) | [📧 Email](mailto:oscar.barquero@university.edu)
+[🔗 GitHub](https://github.com/oscarbarquero) | [📧 Email](mailto:oscar.barquero@urjc.es)
 
 ---
 
-### Dr. Ana López {#ana-lopez}
+### Dr. Rebeca Goya-Esteban {#rebeca-goya}
 <div style="width: 160px; height: 160px; border-radius: 50%; background-image: url('/assets/images/ana.jpg'); background-size: contain; background-position: center; background-repeat: no-repeat; border: 2px solid #f0f0f0; box-shadow: 0 1px 4px rgba(0,0,0,0.1); margin: 0 1rem 1rem 0; display: inline-block; vertical-align: top;"></div>
-**Dr. Ana López** is an expert in causal inference and health policy evaluation. Her research combines quasi-experimental designs with administrative data to assess the impact of social interventions. She teaches advanced biostatistics at the graduate level.
+**PhD Rebeca Goya-Esteban** Rebeca Goya Esteban received the BSc degree in Telecommunication Engineering from Carlos III University, Madrid, Spain, in 2006, the MSc degree in Biomedical Engineering from Porto University, Portugal, in 2008 and the PhD degree from Rey Juan Carlos University, Madrid, Spain, in 2014. Currently, she is Associate Professor at Rey Juan Carlos University. Her main research interests include time series analysis, cardiac signal processing and statistical learning. 
+{: .text-justify}
 
-[📧 Email](mailto:ana.lopez@university.edu)
+
+[Personal Website ](https://gestion2.urjc.es/pdi/ver/rebeca.goyaesteban){: target="_blank" rel="noopener noreferrer"}
+
+[📧 Email](mailto:rebeca.goyaesteban@urjc.es)
 
 ---
 

@@ -16,6 +16,9 @@ permalink: /
 ## Our Mission
 
 The BayesBio Research Group bridges theoretical statistics and applied biomedical engineering to address complex challenges. We develop statistically rigorous, computationally scalable methods for uncertainty quantification, clinical decision support, and reproducible data analysis — grounded in real-world medical data and validated through clinical collaboration, as well as any other real problem that can be addressed with bayesian analysis.
+{: .text-justify}
+
+
 
 ## Principal Investigators
 
@@ -26,7 +29,7 @@ The BayesBio Research Group bridges theoretical statistics and applied biomedica
      class="avatar" /> 
      
 **Luca Martino** develops theoretical and computational Bayesian frameworks for high-dimensional, nonlinear, and dynamic systems. His work focuses on advanced posterior approximation, scalable Markov Chain Monte Carlo (MCMC) algorithms, and hierarchical latent-variable models. He has published foundational contributions in *Journal of Machine Learning Research*, *Statistics and Computing*, and *IEEE Transactions on Signal Processing*, with applications spanning biomedical diagnostics, social behavior modeling, and environmental inference. His research emphasizes mathematical rigor, algorithmic efficiency, and the principled quantification of uncertainty in data-driven decision-making.
-
+{: .text-justify}
 ### Óscar Barquero — Biomedical Signal Processing & Deep Learning
 
 <img src="{{ '/assets/images/ojki.jpg' | relative_url }}" 
@@ -34,12 +37,12 @@ The BayesBio Research Group bridges theoretical statistics and applied biomedica
      class="avatar" /> 
 
 **Óscar Barquero** designs and implements machine learning and signal processing algorithms for the analysis of clinical time-series data, including EEG, ECG, and respiratory acoustics. His work applies convolutional and recurrent neural networks (CNNs, RNNs), to characterize cardiac signals. He also develop intepretable machine learning models to identify clinical variables in diabetes and hepatitis.
-
+{: .text-justify}
 
 ## Interdisciplinary Approach
 
 Our group unites methodological innovation with translational impact. By combining Luca’s theoretical advances in probabilistic modeling with Óscar’s expertise in biomedical signal analysis, we create tools that are not only statistically sound but clinically actionable. We emphasize open science: all algorithms are released as open-source software, accompanied by tutorials and documentation to ensure reproducibility and broad adoption.
-
+{: .text-justify}
 ## Explore Our Work
 
 [View our publications](/publications/)  
