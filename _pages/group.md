@@ -40,21 +40,26 @@ permalink: /group/
 ### Dr. Luca Martino {#luca-martino}
 <div style="width: 160px; height: 160px; border-radius: 50%; background-image: url('/assets/images/luca.jpg'); background-size: contain; background-position: center; background-repeat: no-repeat; border: 2px solid #f0f0f0; box-shadow: 0 1px 4px rgba(0,0,0,0.1); margin: 0 1rem 1rem 0; display: inline-block; vertical-align: top;"></div>
 **Dr. Luca Martino** is a Senior Researcher in statistical modeling for medical data. His work focuses on Bayesian inference, survival analysis, and the development of robust methods for hazard ratio estimation. He has co-authored over 40 peer-reviewed publications and leads the group’s methodological core.
+{: .text-justify}
+
 
 [🔗 Google Scholar](https://scholar.google.com/citations?user=XXXX) | [📧 Email](mailto:luca.martino@university.edu)
 
 ---
 
 ### Dr. Oscar Barquero {#oscar-barquero}
-<div style="width: 160px; height: 160px; border-radius: 50%; background-image: url('/assets/images/oscar.jpg'); background-size: contain; background-position: center; background-repeat: no-repeat; border: 2px solid #f0f0f0; box-shadow: 0 1px 4px rgba(0,0,0,0.1); margin: 0 1rem 1rem 0; display: inline-block; vertical-align: top;"></div>
-**Dr. Oscar Barquero** specializes in computational epidemiology and social determinants of health. His recent work analyzes health disparities using longitudinal cohort data and machine learning. He collaborates closely with public health agencies and is a co-founder of the group’s open-data initiative.
+<div style="width: 160px; height: 160px; border-radius: 50%; background-image: url('/assets/images/ojki.jpg'); background-size: contain; background-position: center; background-repeat: no-repeat; border: 2px solid #f0f0f0; box-shadow: 0 1px 4px rgba(0,0,0,0.1); margin: 0 1rem 1rem 0; display: inline-block; vertical-align: top;"></div>
 
-[🔗 GitHub](https://github.com/oscarbarquero) | [📧 Email](mailto:oscar.barquero@urjc.es)
+**Dr. Oscar Barquero** specializes in computational epidemiology and social determinants of health. His recent work analyzes health disparities using longitudinal cohort data and machine learning. He collaborates closely with public health agencies and is a co-founder of the group’s open-data initiative.
+{: .text-justify}
+
+[Personal Website ](https://gestion2.urjc.es/pdi/ver/oscar.barquero){: target="_blank" rel="noopener noreferrer"}
+[🔗 GitHub](https://github.com/obarquero) | [📧 Email](mailto:oscar.barquero@urjc.es)
 
 ---
 
 ### Dr. Rebeca Goya-Esteban {#rebeca-goya}
-<div style="width: 160px; height: 160px; border-radius: 50%; background-image: url('/assets/images/ana.jpg'); background-size: contain; background-position: center; background-repeat: no-repeat; border: 2px solid #f0f0f0; box-shadow: 0 1px 4px rgba(0,0,0,0.1); margin: 0 1rem 1rem 0; display: inline-block; vertical-align: top;"></div>
+<div style="width: 160px; height: 160px; border-radius: 50%; background-image: url('/assets/images/rge.jpg'); background-size: contain; background-position: center; background-repeat: no-repeat; border: 2px solid #f0f0f0; box-shadow: 0 1px 4px rgba(0,0,0,0.1); margin: 0 1rem 1rem 0; display: inline-block; vertical-align: top;"></div>
 **PhD Rebeca Goya-Esteban** Rebeca Goya Esteban received the BSc degree in Telecommunication Engineering from Carlos III University, Madrid, Spain, in 2006, the MSc degree in Biomedical Engineering from Porto University, Portugal, in 2008 and the PhD degree from Rey Juan Carlos University, Madrid, Spain, in 2014. Currently, she is Associate Professor at Rey Juan Carlos University. Her main research interests include time series analysis, cardiac signal processing and statistical learning. 
 {: .text-justify}
 
@@ -65,7 +70,7 @@ permalink: /group/
 
 ---
 
-### Dr. Miguel Ruiz {#miguel-ruiz}
+### Dr. Eduardo Morgado {#miguel-ruiz}
 <div style="width: 160px; height: 160px; border-radius: 50%; background-image: url('/assets/images/miguel.jpg'); background-size: contain; background-position: center; background-repeat: no-repeat; border: 2px solid #f0f0f0; box-shadow: 0 1px 4px rgba(0,0,0,0.1); margin: 0 1rem 1rem 0; display: inline-block; vertical-align: top;"></div>
 **Dr. Miguel Ruiz** develops statistical software for reproducible research. He maintains the group’s R/Python pipelines and leads training workshops on open science practices. His work has been adopted by several international research consortia.
 
@@ -76,22 +81,26 @@ permalink: /group/
 ## PhD Students
 
 ### All PhD Students
-- [Isabel García](#isabel-garcia)
+- [Miriam Gutiérrez Fernández-Calvillo](#miriam)
 - [Diego Fernández](#diego-fernandez)
 - [Sofía Morales](#sofia-morales)
 - [Tomás Ruiz](#tomás-ruiz)
 
 ---
 
-### Isabel García {#isabel-garcia}
-<div style="width: 160px; height: 160px; border-radius: 50%; background-image: url('/assets/images/isabel.jpg'); background-size: contain; background-position: center; background-repeat: no-repeat; border: 2px solid #f0f0f0; box-shadow: 0 1px 4px rgba(0,0,0,0.1); margin: 0 1rem 1rem 0; display: inline-block; vertical-align: top;"></div>
-**Isabel García** is investigating the use of machine learning to predict treatment response in chronic pain patients using electronic health records. Her work is funded by the National Health Institute.
+### Miriam Gutiérrez Fernández-Calvillo {#miriam}
 
-[🔗 GitHub](https://github.com/isabelgarcia) | [📧 Email](mailto:isabel.garcia@university.edu)
+#### Phd Student
+<div style="width: 160px; height: 160px; border-radius: 50%; background-image: url('/assets/images/miriam.jpg'); background-size: contain; background-position: center; background-repeat: no-repeat; border: 2px solid #f0f0f0; box-shadow: 0 1px 4px rgba(0,0,0,0.1); margin: 0 1rem 1rem 0; display: inline-block; vertical-align: top;"></div>
+**Miriam** is in her final year of her PhD, developing deep learning models to reconstruct cardiac electrical activity from torso measurements. She is currently working at Vicomtech.
+{: .text-justify}
+
+[Personal website](https://www.vicomtech.org/en/vicomtech/team/1347)
 
 ---
 
 ### Diego Fernández {#diego-fernandez}
+
 <div style="width: 160px; height: 160px; border-radius: 50%; background-image: url('/assets/images/diego.jpg'); background-size: contain; background-position: center; background-repeat: no-repeat; border: 2px solid #f0f0f0; box-shadow: 0 1px 4px rgba(0,0,0,0.1); margin: 0 1rem 1rem 0; display: inline-block; vertical-align: top;"></div>
 **Diego Fernández** studies social determinants of mental health disparities in urban populations. He combines geospatial analysis with survey data to identify neighborhood-level risk factors.
 
@@ -118,14 +127,14 @@ permalink: /group/
 ## Former PhD Students
 
 ### Alumni
-- [Dr. Carla Jiménez](#carla-jimenez) — Postdoc, Stanford University
+- [PhD Miguel Ángel Cámara-Vázquez](#miguelangel) — CompuGroup Medical SE & Co. KGaA
 - [Dr. Roberto Díaz](#roberto-diaz) — Data Scientist, Google Health
 - [Dr. Elena Vargas](#elena-vargas) — Research Lead, WHO Regional Office
 
 ---
 
-### Dr. Carla Jiménez {#carla-jimenez}
-<div style="width: 160px; height: 160px; border-radius: 50%; background-image: url('/assets/images/carla.jpg'); background-size: contain; background-position: center; background-repeat: no-repeat; border: 2px solid #f0f0f0; box-shadow: 0 1px 4px rgba(0,0,0,0.1); margin: 0 1rem 1rem 0; display: inline-block; vertical-align: top;"></div>
+### PhD Miguel Ángel Cámara-Vázquez {#miguelangel}
+<div style="width: 160px; height: 160px; border-radius: 50%; background-image: url('/assets/images/macv.jpg'); background-size: contain; background-position: center; background-repeat: no-repeat; border: 2px solid #f0f0f0; box-shadow: 0 1px 4px rgba(0,0,0,0.1); margin: 0 1rem 1rem 0; display: inline-block; vertical-align: top;"></div>
 **Dr. Carla Jiménez** completed her PhD in 2022. She now leads a team at Stanford developing AI tools for early detection of sepsis. Her thesis on dynamic hazard models received the Best Dissertation Award.
 
 [🔗 LinkedIn](https://linkedin.com/in/carla-jimenez) | [📧 Email](mailto:carla.jimenez@stanford.edu)
